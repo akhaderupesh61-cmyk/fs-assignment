@@ -1,9 +1,53 @@
-#parent{
+#parent {
     display: flex;
+    justify-content: center;
+    gap: 220px;
 }
 
-.card{
-    width: max-content;
-    height: 120px;
+
+#parent1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.card {
+    width: 130%;
+    height: 150px;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10%;
+    background-color: antiquewhite;
+}
+
+.card1{
+    width: 31%;
+    height: 300px;
+    border: 2px solid black;
+    text-align: center;
+
+}
+h1,
+h2 {
+    text-align: center;
+    padding: 20px;
+    margin-left: 70px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+h3 {
+    padding-top: 50px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    align-items: center;
+    font-family: sans-serif;
+    
+}
+
+p {
+    color: gray;
     text-align: center;
 }
