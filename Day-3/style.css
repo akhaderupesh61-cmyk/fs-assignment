@@ -1,0 +1,20 @@
+#parent1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.card1 {
+    width: 18%;
+    height: 40px;
+    border-radius: 10%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+    margin: 10px;
+    padding: 50px;
+    background-color: antiquewhite;
+    color: black;
+    font-weight: bold;
+    margin-top: 20px;
+}
