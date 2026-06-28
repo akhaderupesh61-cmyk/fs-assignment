@@ -1,0 +1,70 @@
+#parent {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.tab {
+
+    color: black;
+    display: flex;
+     
+
+}
+
+#h1 {
+    color: white;
+    background-color: rgba(137, 43, 226, 0.658);
+    text-align: left;
+    
+}
+
+.tab h3 {
+    margin: 10px;
+    padding: 10px;
+    width: 150px;
+}
+
+#section1 {
+    margin: 40px;
+    text-align: left;
+}
+
+
+p {
+    line-height: 1.3;
+    color: gray;
+}
+
+#section2 {
+    display: flex;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+}
+
+#section2 {
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    width: 60%;
+}
+
+.cards {
+    width: 40%;
+    height: 260px;
+    text-align: center;
+    margin: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+#parent1 {
+    display: flex;
+}
+
+.pic {
+    padding: 10px;
+}
