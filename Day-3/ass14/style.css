@@ -1,0 +1,77 @@
+#parent {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: darkblue;
+}
+
+.banner {
+    text-align: left;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+img {
+    width: 80%px;
+    height: 180px;
+}
+
+.banner1 {
+    display: flex;
+}
+
+#section2 {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    margin: 20px;
+}
+
+.cards {
+    width: 18%;
+    height: 350px;
+    text-align: left;
+    margin-bottom: 20px;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+.pic {
+    width: 100%;
+    height: 200px;
+}
+
+p {
+    color: gray;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+#section3 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.cards1 {
+    width: 21%;
+    height: 300px;
+    text-align: left;
+    margin-bottom: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 5px;
+    margin: 20px;
+
+}
+
+.pic1 {
+    width: 100%;
+    height: 180px;
+}

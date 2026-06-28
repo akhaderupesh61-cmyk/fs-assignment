@@ -1,0 +1,26 @@
+#parent {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.cards {
+    width: 27%;
+    height: 150px;
+    text-align: left;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+    padding-bottom: 5px;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+p {
+    color: gray;
+}

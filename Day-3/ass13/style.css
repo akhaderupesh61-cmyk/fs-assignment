@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    color: #122941;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+#parent {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card {
+    width: 22%;
+    height: 300px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-family: 'Inter', sans-serif;
+
+}
+
+button {
+    color: dodgerblue;
+    background-color: white;
+    border: 1px solid dodgerblue;
+    border-radius: 5px;
+    width: 20%;
+    height: 30px;
+    font-weight: bold;
+    ;
+}
+
+.btn2 {
+    background-color: dodgerblue;
+    color:white;
+    border: 1px solid dodgerblue;
+    border-radius: 5px;
+    width: 20%;
+    height: 30px;
+    font-weight: bold;
+}
+h2{
+    font-weight: bold;
+}
