@@ -2,9 +2,8 @@
     display: flex;
     justify-content: center;
     gap: 220px;
+   
 }
-
-
 
 .card {
     width: 130%;
@@ -31,10 +30,15 @@ h3 {
     font-weight: bold;
     align-items: center;
     font-family: sans-serif;
-    
+
 }
 
 p {
     color: gray;
     text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }

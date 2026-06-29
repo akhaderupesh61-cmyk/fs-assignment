@@ -18,3 +18,10 @@
     font-weight: bold;
     margin-top: 20px;
 }
+
+a {
+
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
